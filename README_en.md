@@ -9,35 +9,36 @@
   <a aria-label="Completed" href="https://rocketseat.com.br/">
     <img src="https://img.shields.io/badge/Ignite-000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAoCAYAAABw65OnAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGHSURBVHgBxZc9UsMwEIVfoKHkCHsEH8E3CC0VvgG5gc0NcgP7BpTQ+QgOHZ2hpIKSLkgjeSIS2aOftfTNvImTGUVPq92VvEE6OqGt0EHoR+hNPx+QiFroOKMGCSgXDIxCt1iJUktO0C8YIKxEgfmVmyqmAdfghYRe4BbiL/35AWYGuEXB1A6M1AEGWPPiMcDAkdMABRpg2waCCqmvgT0Y6QMMDPBgqmNZbs9QK25x2sc6wIBXIhbGoG/Ln4VE4F+DcmEXOMmSGnjSMRsISsSYSMjEM7dwRAQEtzZsTtgYYyuo3CEwUGG+F3RQ1UNCd1gJOcFWT7JHZKLFIMPdaiOkn1lPPhcanBLsAZk4rxTZPQmJ6WFPyhpMuFzvurPv8p3hVehGaCP0jgSYVSHzwqv/uzAXCYK6Lcnaf4K6lP4K3SPRygkRxy8XDS6TsMWKXFl+s/WCTyQ0UcEe+qiT0BdbT+iQEMptALi8TXXIwJjbgGxKQ04DE2NuA3VOA7JPENRpWCEjJTLzBwzMMNX+FpToAAAAAElFTkSuQmCC&labelColor=00B37E&logoColor=000"></img>
 </a>
-    <a href="./README_en.md">
-    <img alt="Read in english" src="https://img.shields.io/badge/-Read in english-000?style=flat&logo=google-translate&logoColor=000&labelColor=00B37E" />
+    <a href="./README.md">
+    <img alt="Leia em português" src="https://img.shields.io/badge/-Leia em português-000?style=flat&logo=google-translate&logoColor=000&labelColor=00B37E" />
 </a>
 </p>
 
-## :speech_balloon: Sobre
+## :speech_balloon: About
 
-Este projeto foi desenvolvido durante o terceiro módulo da trilha de React JS do programa Ignite da [Rocketseat](https://www.rocketseat.com.br).
-<br />
-O projeto DT Money é uma aplicação de controle financeiro que permite cadastrar entradas e saídas, fazer buscas, filtros e realizar o cálculo do total das transações cadastradas.
-
-Abaixo estão as principais funções da aplicação e os principais pontos que foram levados em consideração durante o desenvolvimento.
-
-- Busca e listagem de transações ordenadas pela data de cadastro;
-- Cadastro de transações em uma API;
-- Criação de componentes acessíveis com o Radix UI;
-- Prevensão de renderizações desnecessárias dos componentes;
-
+This project was developed during the third module of the React JS track of [Rocketseat](https://www.rocketseat.com.br) Ignite program.
 <br />
 
-A seguir, alguns dos conceitos postos em prática durante o desenvolvimento:
+The DT Money project is a financial control application that allows you to register inputs and outputs, perform searches, filters and calculate the total of registered transactions.
+
+Below are the main functions of the application and the main points that were taken into consideration during development.
+
+- Search and list of transactions ordered by registration date;
+- Registration of transactions in an API;
+- Creation of accessible components with Radix UI;
+- Prevention of unnecessary renderings of components;
+
+<br />
+
+Below are some of the concepts put into practice during development:
 
 - React Hooks (useState, useCallback, useMemo)
-- Consumo de API com axios e com a API fetch do JS
-- Utilização de fake API (json-server)
-- Análise de performance
+- API consumption with axios and the JS fetch API
+- Use of fake API (json-server)
+- Performance analysis
 - Styled Components
 - ContextAPI
-- Estados e imutabilidade
+- States and immutability
 
 ## :camera: Preview
 
@@ -45,7 +46,7 @@ A seguir, alguns dos conceitos postos em prática durante o desenvolvimento:
   <img src="./.github/cover.png" width=80% />
 </div>
 
-## :rocket: Tecnologias Utilizadas
+## :rocket: Technologies Used
 
   <a href="https://react.dev/">
     <img alt="reactjs" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%FF5C00" />
@@ -73,5 +74,5 @@ A seguir, alguns dos conceitos postos em prática durante o desenvolvimento:
 <br />
 
 <p align="center">
-  Feito com :purple_heart:
+  Made with :purple_heart:
 </p>
